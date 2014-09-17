@@ -1,0 +1,1 @@
+package as3TankLib.manager.item{	/**	 * This interface is the general interface for rendering the moview.	 * 	 * @author Michael.Huang	 */	public interface IRender	{		/**		 *  		 * Render the movie		 */				function rendering(step:int = 0):void;	}}
